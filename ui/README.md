@@ -14,7 +14,7 @@ A modern UI built with **React**, **Vite**, **Tailwind CSS**, and **shadcn/ui**.
 1. Install dependencies:
   `npm install`
 2. Start the app
-  `npm dev`
+  `npm run dev`
 
 ### Running the test
 
