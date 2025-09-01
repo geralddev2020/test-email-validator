@@ -30,4 +30,4 @@ In the backend, I chose **NestJS** because it's an opinionated framework that I 
 
 ### Getting started
 
-Check the individual folders for installation and usage instructions.
+Please check each individual folder (`api` and `ui`) for installation and usage instructions. An `⁠.nvmrc` file has been added to each project to automatically manage and install the correct Node.js version.
